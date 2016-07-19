@@ -1,0 +1,26 @@
+body{
+    
+    font-family: sans-serif;
+    line-height: 32px;
+    font-size: 12px;
+}
+.row
+{
+clear:both;position:relative;
+}
+
+.col
+{
+float:left; 
+position:relative;
+}
+.awesome
+{
+    width:250px;
+    padding:5px;
+    margin:5px;
+}
+#mySliderTabs .col
+{
+    width:23%;
+}
